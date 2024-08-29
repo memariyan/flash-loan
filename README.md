@@ -23,10 +23,7 @@ USDC : 0x94a9D9AC8a22534E3FaCa9F4e7F2E2cf85d5E4C8
 DAI : 0xFF34B3d4Aee8ddCd6F9AFFFB6Fe49bD371b8a357
 ```
 
-My Metamask wallet address :
-```shell
-0xE19Eedd27f8e4fe64F6768ad206350126AEEf832
-```
+
 
 For ERC-20 tokens, there are three important smart contract functions involved in token approvals:
 

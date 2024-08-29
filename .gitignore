@@ -1,6 +1,12 @@
 node_modules
 .env
+
+
+### IntelliJ IDEA ###
 .idea
+*.iws
+*.iml
+*.ipr
 
 # Hardhat files
 /cache
